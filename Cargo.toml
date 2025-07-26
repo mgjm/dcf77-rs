@@ -1,0 +1,10 @@
+[package]
+name = "dcf77-decoder"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.98"
+bitflags = "2.9.1"
+crc32fast = "1.5.0"
+nalgebra = "0.33.2"
